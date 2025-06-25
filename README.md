@@ -1,4 +1,15 @@
 ## Hi there 👋
+#### Interest
+###### Segment Routing
+###### Flex Algo
+###### Multitopology Routing
+###### Python
+###### Jinja2
+###### Fast API
+###### SD-WAN
+###### IPSec
+###### EVPN
+###### VXLAN
 
 <!--
 **edwcrz/edwcrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
