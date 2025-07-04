@@ -97,7 +97,7 @@
 ## Magister en Redes de Datos
 #### Universidad Nacional de La Plata
 #### 07/2001 - 06/2004
-## SKILLS
+## Skills
 ###### Redes IP
 ###### Diseño HLD LLD
 ###### Implementación
@@ -133,7 +133,7 @@
 ###### English FCE B2
 ## Achievements
 #### Disfruté de trabajar en todo el ciclo de vida técnico y comercial de Redes, comenzando por Operación y soporte, continuando con preventa y alcanzando el nivel de Program Manager.
-## PASSIONS
+## Passions
 ###### Multiprotol BGP
 ###### Segment Routing
 ###### EVPN VXLAN
@@ -141,7 +141,6 @@
 ###### Git Github
 ###### Terraform Github Actions
 ###### Docker - K8s
-
 ## Strengths
 ###### Manejo de gran profundidad de detalles en el mapa de variables de ejecución.
 ###### Pensar riesgos y contingencias por adelantado.
