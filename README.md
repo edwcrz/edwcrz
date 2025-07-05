@@ -1,3 +1,8 @@
+Eduardo Andrés Cruz
+Sr. Network Engineer
+https://www.linkedin.com/in/cruzeduardoa/
+Buenos Aires - AR
+cruzeduardoa@gmail.com
 ## Summary
 ###### Senior Network Engineer con 25+ años de experiencia en arquitectura y  operación de Redes iP y Data Centers, incluyendo IP/MPLS Backbones, SD-WAN, Firewalls y automatización.
 ###### Mindset en cultura No-ops basada en automatización de procesos y de configuración redes y servicios de red.
@@ -51,6 +56,7 @@
 ## Ssr. Network Engineer
 #### Telefónica de Argentina S.A.
 #### 10/2002 - 09/2004
+#### Buenos Aires
 ###### Operación y mantenimiento de la red IP
 ###### Team leader del servicio de Proxy Radius para ISPs
 ###### Team leader del servicio de Subscriber management de sesiones PPP
@@ -69,6 +75,7 @@
 ## Jr. Network Engineer
 #### Telefónica de Argentina
 #### 10/2021 - 09/2002
+#### Buenos Aires
 ###### Expansión de la red IP
 ###### Despliegue de BRAS Shasta de Nortel
 ###### Despliegue de Routers Cisco c7609
@@ -78,6 +85,7 @@
 ## Training Grantee Network Engineer
 #### Telefónica de Argentina S.A.
 #### 10/2000 - 09/2001
+#### Buenos Aires
 ###### Construcción de red de Gestión Cisco
 ###### Configuración de Firewall Cisco
 ###### Creación de la red de Servicio ICW mediante red Cisco IOS: Switches, Routers y Firewall
@@ -87,6 +95,7 @@
 ## Trainee Network Engineer
 #### Telefónica de Argentina S.A.
 #### 02/1999 - 09/2000
+#### Buenos Aires
 ###### Diseño y desarrollo de placas electrónicas, basadas en microcontroladores Atmel AVR con stack TCP/IP y electrónica digital asociada.
 ###### Programación en C++ y Assembler.
 ###### Desarrollo de Diagramas esquemáticos, librerías de SCH, Librerías de PCB, Políticas granulares para establecimiento de autoruteo y creación y testing de placas PCB.
@@ -94,9 +103,11 @@
 #### Electronics Engineer
 #### Universidad Nacional de La Matanza
 #### 03/1995 - 06/2000
+#### Buenos Aires
 ## Magister en Redes de Datos
 #### Universidad Nacional de La Plata
 #### 07/2001 - 06/2004
+#### Buenos Aires
 ## Skills
 ###### Redes IP
 ###### Diseño HLD LLD
