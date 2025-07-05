@@ -1,5 +1,5 @@
-Eduardo Andrés Cruz
-Sr. Network Engineer
+# Eduardo Andrés Cruz
+## Sr. Network Engineer
 https://www.linkedin.com/in/cruzeduardoa/
 Buenos Aires - AR
 cruzeduardoa@gmail.com
