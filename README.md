@@ -26,7 +26,7 @@
 ###### Implementación de Sistemas de Lawfull Interception.
 ###### Implementación de sistemas de monitoreo de aplicaciones mediante agentes.
 ###### Implementación de sistemas de monitoreo de performance de red.
-## Network Presales
+## Network Presales Engineer
 #### Hynet S.A.
 #### 10/2009 - 04/2012
 #### Buenos Aires
