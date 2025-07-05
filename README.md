@@ -1,8 +1,8 @@
 # Eduardo Andrés Cruz
 ## Sr. Network Engineer
-https://www.linkedin.com/in/cruzeduardoa/
-Buenos Aires - AR
-cruzeduardoa@gmail.com
+#### https://www.linkedin.com/in/cruzeduardoa/
+#### Buenos Aires - AR
+#### cruzeduardoa@gmail.com
 ## Summary
 ###### Senior Network Engineer con 25+ años de experiencia en arquitectura y  operación de Redes iP y Data Centers, incluyendo IP/MPLS Backbones, SD-WAN, Firewalls y automatización.
 ###### Mindset en cultura No-ops basada en automatización de procesos y de configuración redes y servicios de red.
