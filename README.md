@@ -37,7 +37,7 @@ Actualmente enfocado en:
 * 📧 Email: (opcional)
 * ⚡ Filosofía
 
-"La red ya no es solo infraestructura, es una plataforma inteligente que aprende, decide y se adapta."
+"Cada dominio de red, de steering de datos, de cyberseguridad es un cliente mas de un agente que interpreta comunicaciones en lenguaje natural y ingreso de datos multiples con interpretación inteligente y acción. Hoy la infraestructura aprende, decide y se adapta."
 <!--
 **edwcrz/edwcrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
