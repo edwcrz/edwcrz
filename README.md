@@ -5,9 +5,9 @@ Ingeniero de redes con más de 25 años de experiencia evolucionando hacia el mu
 
 Actualmente enfocado en:
 
-* 🐍 Desarrollo en Python
-* 🤖 Machine Learning aplicado a redes y datos
-* 🧠 Diseño de Agentes de IA
+#* 🐍 Desarrollo en Python
+#* 🤖 Machine Learning aplicado a redes y datos
+#* 🧠 Diseño de Agentes de IA
 * 🔗 Integración de MCP (Model Context Protocol)
 * 🌐 Orquestación de múltiples APIs
 * ⚙️ Automatización e Infrastructure as Code
