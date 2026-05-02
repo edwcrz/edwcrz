@@ -19,12 +19,12 @@ Actualmente enfocado en:
 * 📊 Actividad & Enfoque
 * 🧩 Arquitectura de Trabajo
 * flowchart LR
-* A [Data Sources] --> B[Python Processing]
-* B --> C[AI Agents]
-* C --> D[MCP Context Layer]
-* D --> E[Multi-API Integration]
-* E --> F[Automation & Actions]
-* F --> G[Observability & Feedback]
+** A [Data Sources] --> B[Python Processing]
+** B --> C[AI Agents]
+** C --> D[MCP Context Layer]
+** D --> E[Multi-API Integration]
+** E --> F[Automation & Actions]
+** F --> G[Observability & Feedback]
 * 🔥 En qué estoy trabajando
 * 🧠 Agentes autónomos para operación de redes
 * 📡 Automatización de configuraciones (Cisco / Juniper)
