@@ -19,8 +19,8 @@ Actualmente enfocado en:
 * 📊 Actividad & Enfoque
 * 🧩 Arquitectura de Trabajo
 * flowchart LR
-*A [Data Sources] --> B[Python Processing]
-*B --> C[AI Agents]
+* A [Data Sources] --> B[Python Processing]
+* B --> C[AI Agents]
 * C --> D[MCP Context Layer]
 * D --> E[Multi-API Integration]
 * E --> F[Automation & Actions]
