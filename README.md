@@ -5,9 +5,9 @@ Ingeniero de redes con más de 25 años de experiencia evolucionando hacia el mu
 
 Actualmente enfocado en:
 
-#* 🐍 Desarrollo en Python
-#* 🤖 Machine Learning aplicado a redes y datos
-#* 🧠 Diseño de Agentes de IA
+* 🐍 Desarrollo en Python
+* 🤖 Machine Learning aplicado a redes y datos
+* 🧠 Diseño de Agentes de IA
 * 🔗 Integración de MCP (Model Context Protocol)
 * 🌐 Orquestación de múltiples APIs
 * ⚙️ Automatización e Infrastructure as Code
@@ -19,8 +19,8 @@ Actualmente enfocado en:
 * 📊 Actividad & Enfoque
 * 🧩 Arquitectura de Trabajo
 * flowchart LR
-* A [Data Sources] --> B[Python Processing]
-* B --> C[AI Agents]
+**A [Data Sources] --> B[Python Processing]
+**B --> C[AI Agents]
 * C --> D[MCP Context Layer]
 * D --> E[Multi-API Integration]
 * E --> F[Automation & Actions]
